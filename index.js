@@ -13,6 +13,7 @@ const secretKey = '12'; // Replace with your secret key for JWT
 // user as mysql user 
 // password as mysql passowrd
 // it is automatic db creation just give the right credentials it will automatically generate all the db and schemas
+//
 const db = mysql.createConnection({
   host: 'localhost',
   user: 'temp',
