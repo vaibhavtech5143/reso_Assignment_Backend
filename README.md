@@ -16,5 +16,6 @@
 
  # how to run it 
  make sure you open the correct folder that is you are in the particular directory  or parent directory or you can say root directory of this project 
- now type npm install
- node index.js
+ now type 
+ step 1 -> npm install </hr>
+ step 2 -> node index.js
